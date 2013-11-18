@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="content">
+
+<div class="column">
+
+h3. Configuration
+
+* "Bitmap Fonts":fonts
+* "Mouse Cursor":mouse-cursor
+* "Workrave":workrave
+
+</div>
+
+</div>

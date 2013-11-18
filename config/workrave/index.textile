@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="content">
+
+h3. Workrave
+
+<pre>
+# This option is always reset to true for some reason.
+gsettings set org.workrave.gui.main-window enabled false
+</pre>
+
+</div>

@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<div class="content">
+
+h3. Xubuntu
+
+<div class="column">
+
+h3. Browser
+
+* "Google Chrome":https://www.google.com/chrome/
+* "Firefox":http://www.mozilla.org/firefox/
+** Adblock Plus
+** Element Hiding Helper
+** "NoSquint":https://urandom.ca/nosquint/
+** "DownThemAll":http://www.downthemall.net/
+** "Video DownloadHelper":http://www.downloadhelper.net/
+
+h3. E-mail
+
+* "Thunderbird":http://www.mozilla.org/thunderbird/
+** QuoteCollapse
+** "Enigmail":https://www.enigmail.net/ (OpenPGP)
+
+h3. Messenger
+
+* "Pidgin":http://www.pidgin.im/
+** "Off-The-Record":https://otr.cypherpunks.ca/
+
+h3. VoIP
+
+* "SFLphone":http://sflphone.org/ (SIP, IAX)
+
+</div>
+<div class="column">
+
+h3. Editor
+
+* "Sublime Text":http://www.sublimetext.com/
+
+h3. Multimedia
+
+* "VLC":http://www.videolan.org/vlc/
+* "pavucontrol":http://freedesktop.org/software/pulseaudio/pavucontrol/
+
+h3. Security
+
+* "KeePassX":http://www.keepassx.org/
+* tcplay (TrueCrypt)
+
+h3. Accessibility
+
+* "Dasher":http://www.inference.phy.cam.ac.uk/dasher/
+* "Mousetweaks":https://wiki.gnome.org/Mousetweaks/
+* "Workrave":http://www.workrave.org/
+
+h4. Scripting
+
+* "wmctrl":http://tomas.styblo.name/wmctrl/
+* "xdotool":http://www.semicomplete.com/projects/xdotool/
+
+h4. Speech Recognition
+
+* "Speech":https://github.com/andre-luiz-dos-santos/speech-app (Dictation)
+
+</div>
+
+</div>

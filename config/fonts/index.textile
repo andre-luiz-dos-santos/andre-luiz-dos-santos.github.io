@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="content">
+
+h3. Bitmap Font
+
+<pre>
+sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
+
+vi /etc/fonts/fonts.conf
+<dir>~/.fonts</dir>
+
+mkdir ~/.fonts
+cd ~/.fonts
+# extract font files
+mkfontdir
+fc-cache -fv
+</pre>
+
+</div>
